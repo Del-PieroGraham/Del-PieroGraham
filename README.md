@@ -1,4 +1,5 @@
-<h1>Hi, I'm Del-Piero! <br/><a href="https://linkedin.com/in/del-piero-graham">Computer Science Graduate</a>
+<h1>Hi, I'm Del-Piero! <br/>
+  <!--<a href="https://linkedin.com/in/del-piero-graham">Computer Science Graduate</a> -->
 
 <h2>🎓Education </h2>
 - Bachelor of Science in Computing (Major: Computer Science)
