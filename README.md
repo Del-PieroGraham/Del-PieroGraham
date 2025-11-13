@@ -18,14 +18,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Del-PieroGraham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img align="left" alt="Del-PieroGraham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Del-PieroGraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Del-PieroGraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: 
-<br>[linkedin]: https://linkedin.com/in/del-piero-graham
-
+[linkedin]: https://linkedin.com/in/del-piero-graham
+[instagram]: https://www.instagram.com/kxng_delz/
 
 
 <!--
