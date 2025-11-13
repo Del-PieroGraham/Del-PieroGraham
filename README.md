@@ -6,6 +6,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Programming Language Interpreter/Compiler]()
+- [Academic Probation Alert Python and Prolog Project]()
+- [Implementing a Secure and Scalable VPN Infrastructure for Acme Corp’s Remote Workforce]()
 - [Active Directory Home Lab]()
 
 <h2>📋Certification</h2>
