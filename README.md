@@ -8,7 +8,7 @@
 - [Programming Language Interpreter/Compiler]()
 - [Active Directory Home Lab]()
 
-<h2>📋Certifications</h2>
+<h2>📋Certification</h2>
 - CompTIA Network+ (Pending)
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -18,18 +18,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Del-PieroGraham | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Del-PieroGraham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Del-PieroGraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Del-PieroGraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: 
-[linkedin]: www.linkedin.com/in/del-piero-graham
+<br>[linkedin]: https://linkedin.com/in/del-piero-graham
 
 
-
-## Hi there 👋
 
 <!--
 **Del-PieroGraham/Del-PieroGraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
